@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Air Fryer",
+      "price": 39.99,
+      "imgUrl": "/imgs/airFryer.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Harry Potter and the Philosopher's Stone, Book 1",
+      "price": 17.99,
+      "imgUrl": "/imgs/harryPotter.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sneakers",
+      "price": 120.00,
+      "imgUrl": "/imgs/sneaker.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Final Fantasy VII Rebirth",
+      "price": 59.99,
+      "imgUrl": "/imgs/ff16.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pokemon Trading Card Game",
+      "price": 49.99,
+      "imgUrl": "/imgs/pokemonCards.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pikachu Plush",
+      "price": 13.99,
+      "imgUrl": "/imgs/pikachu.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Charmander Plush",
+      "price": 12.89,
+      "imgUrl": "/imgs/charmander.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Blastoise Plush",
+      "price": 29.99,
+      "imgUrl": "/imgs/blastoise.jpg"
+    }
+  ]
