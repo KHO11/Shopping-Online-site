@@ -4,6 +4,7 @@ My very first big project using typescript to build an online shopping website w
 # Lessons learned
 
 Using typescript with React.
+
 Using routes to route to different pages depending on the actions of the user.
 
 # Deployment
