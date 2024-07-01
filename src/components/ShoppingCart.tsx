@@ -29,7 +29,7 @@ export function ShoppingCart({ isOpen }: ShoppingCartProps) {
               }, 0)
             )}
             <br/>
-            <button onClick={completePurchase}>Complete Purchase</button>
+            {cartItems.length > 0 ? <button onClick={completePurchase}>Complete Purchase</button> : <></>}
           </div>
         </Stack>
       </Offcanvas.Body>
