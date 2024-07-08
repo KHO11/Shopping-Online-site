@@ -12,8 +12,9 @@ export function Home() {
             sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
             nisi ut aliquip ex ea commodo consequat. </p>
-            <h3>More Text</h3>
-          <p>Lorem ipsum dolor sit ame.</p>
+            <img className="fakeimgOne" src="/imgs/comb.avif" />
+            <p>50% off</p>
+            <p>Prime Day Early Access deal</p>
           {/* Database call to upload an image*/}
         </div>
 
